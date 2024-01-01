@@ -2,6 +2,8 @@
 
 [ticket-app.pdf](https://github.com/yunustaha/fimple-react-bootcamp-final-case/files/13805058/ticket-app.pdf)
 
+[Live Link](https://6592c053313055c4aea631a5--aquamarine-narwhal-b077af.netlify.app/)
+
 
 ## Available Scripts
 
