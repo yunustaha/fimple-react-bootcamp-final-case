@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Ticket App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[ticket-app.pdf](https://github.com/yunustaha/fimple-react-bootcamp-final-case/files/13805058/ticket-app.pdf)
+
 
 ## Available Scripts
 
